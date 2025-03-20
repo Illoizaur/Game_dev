@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kronus_0: 7204045117104993359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

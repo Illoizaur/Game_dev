@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eclipsia_0: -4075053687934886966
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

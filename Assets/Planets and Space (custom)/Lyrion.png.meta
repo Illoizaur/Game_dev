@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lyrion_0: 2069066724759196967
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
